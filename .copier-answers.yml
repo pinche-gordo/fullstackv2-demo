@@ -1,0 +1,10 @@
+# Changes here will be overwritten by Copier; NEVER EDIT MANUALLY
+_commit: 2.0.2
+_src_path: gh:algorandfoundation/algokit-fullstack-template
+author_email: j.lewis@digitaldimension.com.mx
+author_name: Jason Wade Lewis
+contract_name: hello_world
+deployment_language: python
+preset_name: starter
+project_name: fullstackv2-demo
+
